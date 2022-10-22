@@ -1,0 +1,133 @@
+{
+  "contact": {
+    "phone": "+91 9994018882",
+    "email": "nishaddh81149@gmail.com",
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "skills": [
+    {
+      "title": "Frontend",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "CSS3"
+        },
+        {
+          "name": "Bootstrap"
+        },
+        {
+          "name": "Javascript"
+        },
+        {
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Node.js"
+        },
+        {
+          "name": "Express.js"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "Mongoose"
+        }
+      ]
+    }
+    
+    
+    
+  ],
+  "summary": ["To work with an organization where there is a scope for self-improvement and knowledge enhancement which will provide an opportunity to exhibit the best of my ability and contribute towards organization development."],
+  
+  "education": [
+    {
+      "institution": "SNS College Of Technology",
+      "degree": "Bachelor's in Mechatronics Engineering",
+      "start": "2013",
+      "end": "2016"
+    },
+    {
+      "institution": "Elumalai Polytechnic College",
+      "degree": "Diploma in Mechanical Engineering",
+      "start": "2010",
+      "end": "2013"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer(Internship)",
+      "company": "Edureka-Bangalore",
+      "description": ["Built a Zomato-clone app using Nodejs, Express and MongoDB at back-end and HTML, CSS, Bootstrap, JavaScript, React.js at front-end with full functionality.", "Integrated Paytm for payments.", "Built OLX-clone app using MongoDB at back-end and HTML, CSS, JavaScript at front-end." 
+    ],
+      "technologies": "Nodejs, Express and MongoDB at back-end and HTML, CSS, Bootstrap, JavaScript, React.js at front-end ",
+      "start": "04/2022",
+      "end": "09/2022"
+    },
+    {
+      "role": "Full Stack Developer(Internship)",
+      "company": "V-shesh Bangalore",
+      "description": ["Developed registration form and designed clone Gmail structure"],
+      "technologies": "HTML, CSS, JavaScript",
+      "start": "10/2021",
+      "end": "12/2021"
+    },
+    {
+      "role": "Quality Assurance Engineer & Customer care executive(NON-IT)",
+      "company": "Peps Industries PVT Ltd, Coimbatore",
+      "description": ["Checking the products as per customers needs and maintaining the product actual measurement reports","Attending the phone calls and checking the mails daily from customers end then clarifying their doubts and rectifying their issues"],
+      "technologies": "Salesforce",
+      "start": "03/2019",
+      "end": "10/2019"
+    },
+    {
+      "role": "Quality Assurance Trainee(NON-IT)",
+      "company": "Krrish Carbons Products PVT Ltd, Coimbatore.                       ",
+      "description": ["Checking the products as per customers needs and maintaining the product actual measurement reports"],
+      "technologies": "Autocad",
+      "start": "02/2017",
+      "end": "50/2018"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/nishad-ali-ahmed-b-653948150/"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/NishadAliAhmed"
+    }
+  ],
+  "role": "Full Stack Developer",
+  "certifications": [
+    {
+      "name": "Completed an internship in Full Stack Web Development(MERN) Apr 2022 - Sep 2022",
+      "company": "Edureka-Bangalore"
+    },
+    {
+      "name": "Completed an internship in Full Stack Web Development Oct 2021 - Dec 2021 ",
+      "company": "V-shesh Bangalore"
+    }
+  ],
+  "fullname": "Nishad Ali Ahmed B"
+}
