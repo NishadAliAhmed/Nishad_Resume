@@ -1,6 +1,6 @@
 import React from 'react';
 import DownloadImage from '../assets/download.svg';
-import Pdf from '../../static/paramasivam_resume.pdf';
+import Pdf from '../../static/nishadaliahmed_resume1.pdf';
 
 const Download = () => {
   const float = {
