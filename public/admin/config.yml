@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Sivam94/Resume 
+  repo: NishadAliAhmed/Nishad_Resume 
 
 media_folder: static/assets
 public_folder: assets
